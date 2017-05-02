@@ -217,7 +217,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#006d34",
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -314,8 +314,8 @@
               "newWindow": true
             }
           },
-          "text1": "<strong>Address</strong><br><b>National Plant Protection Organisation of South &nbsp;Africa (NPPOZA) </b><br><br><b>Department of Agriculture, <br>Forestry and Fisheries </b><br><br><b>Plant Health Import <br>Permit Office </b><br><br>P.O Box 40024, Arcadia, 0007<br>",
-          "text2": "<strong>Contacts</strong><br><b>\nEmail: </b>PlantHealthPermits@daff.gov.za<br><b>\nPhone: </b>+27 12 319 6130<br><b>\nFax: </b>+27 12 329 8292<br><br><b>Physical Address: </b>542 or 543 Harvest House, 30 Hamilton Street, Arcadia, Pretoria<br> ",
+          "text1": "<strong>Address</strong><br>National Plant Protection Organisation of South &nbsp;Africa (NPPOZA) <br><br>Department of Agriculture, <br>Forestry and Fisheries <br><br><b>Plant Health Import </b><br>Permit Office <br><br>P.O Box 40024, Arcadia, 0007<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: PlantHealthPermits@daff.gov.za<br>\nPhone: +27 12 319 6130<br>\nFax: +27 12 329 8292<br><br>Physical Address: 542 or 543 Harvest House, 30 Hamilton Street, Arcadia, Pretoria<br> ",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"http://www.daff.gov.za/daffweb3/\" target=\"_blank\" class=\"text-warning\">Department of Agriculture, Forestry and Fisheries</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://www.nda.agric.za/doaDev/sideMenu/plantHealth/docs/Import%20Procedure%20Book%20Mark%2017%20Oct%202014.pdf\" target=\"_blank\" class=\"text-warning\">Import Procedure</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"mailto:PlantHealthPermits@daff.gov.za\" target=\"_blank\" class=\"text-warning\">DAFF</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
           "_styles": {
             "STRONG": {
