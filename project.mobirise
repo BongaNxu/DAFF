@@ -1,0 +1,349 @@
+{
+  "settings": {
+    "name": "DAFF, Travellers Guide to South Africa",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#017e44",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Lato",
+        "subtitleFont": "Open Sans",
+        "textFont": "Lato",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x177.png",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='#'>cookie policy</a>.",
+    "google-analytics": "",
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 10,
+    "versionPublish": "3.11.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-385x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-9\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://www.nda.agric.za/doaDev/sideMenu/plantHealth/docs/Import%20Procedure%20Book%20Mark%2017%20Oct%202014.pdf\" target=\"_blank\">IMPORT PROCEDURE BOOKLET DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b",
+              "font-size": "46px"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/banner-header-daff-2000x1087.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#cccccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/ioo1TQLO48U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Procedures to be followed \nwhen importing plants and\nplant products into\nSouth Africa",
+          "text": "Import control is vital to prevent the introduction of foreign pests and diseases into South Africa.  When plants and plant products are to be imported, the importer must apply for an import permit.  A Pest Risk Assessment (PRA)  based on scientific data, is conducted and specific conditions are set according to the phytosanitary risks involved. &nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"index.html#header3-2\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "<span style=\"font-weight: normal;\">Import control</span>",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-7",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#006d34",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/daff-banner-1400x482.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Procedures to be followed when importing plants and plant products into South Africa"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Procedures to be followed when importing plants and plant products into South Africa Before importing into South Africa, an importer should:&nbsp;</b></p><p><br></p><p>1. Find out the phytosanitary import conditions that apply to the commodity to be imported by consulting the Agricultural Pests Act, 1983 (Act No. 36 of 1983) or the National Plant Protection Organisation of South Africa (NPPOZA) within the Department of Agriculture, Forestry and Fisheries (DAFF). 2. Apply for an import permit from the DAFF if the commodity to be imported is not exempted from an import permit in terms of the Act referred to above. If the commodity to be imported is exempted from an import permit, ensure compliance with phytosanitary measures for such exemption.</p><p><br></p><p>3. When applying for an import permit, submit the completed application form together with proof of payment. The tariff information with regard to the issuance of import permits and the application form are available on the departmental website (<a href=\"www.daff.gov.za \"><b><i>www.daff.gov.za »Branches» Agricultural Production Health and Food Safety »Plant Health »Importing into South Africa</i></b></a>)</p><p><br></p><p>4. Forward a copy of the import permit to the exporter or supplier in the exporting country to ensure that the consignment to be exported meets the phytosanitary import requirements of South Africa.</p><p><br></p><p>agriculture, forestry &amp; fisheries Department: Agriculture, Forestry and Fisheries REPUBLIC OF SOUTH AFRICA</p><p><br></p><p>5. Ensure that the exporter or supplier presents the commodity to be imported to the National Plant Protection Organisation (NPPO) of the exporting country for phytosanitary inspection and certification where necessary in terms of the permit and/or exemption requirements.</p><p><br></p><p>6. Inform the exporter or supplier to send the original phytosanitary certificate with the consignment to South Africa (if a phytosanitary certificate is required).</p><p><br></p><p><b>Procedures to be followed when imported commodities arrive at the port of entry in South Africa:</b></p><p><br></p><p>1. South African Revenue Services (SARS) will detain the commodities for inspection. 2. DAFF inspector/s from NPPOZA will inspect the consignment together with the accompanying documents.</p><p><br></p><p>3. The following may happen following inspection of the imported commodities.</p><p><br></p><p>(a) If the consignment meets the import requirements, it will be released by the DAFF inspector/s.</p><p><br></p><p>(b) If the consignment does not meet the import requirements, risk management measures will be recommended whereafter a consignment may either be treated and released, sent back to the country of origin or destroyed. Once the consignment has been released by the DAFF inspector/s, the importer or his/ her agent must take the import documents to SARS for final release.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-banner-main-1400x1352.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#006d34",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x42.png",
+              "width": 128,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "youtube",
+              "family": "socicon",
+              "link": "https://www.youtube.com/watch?v=ioo1TQLO48U&feature=youtu.be",
+              "size": 0,
+              "active": true,
+              "newWindow": true
+            }
+          },
+          "text1": "<strong>Address</strong><br><b>National Plant Protection Organisation of South &nbsp;Africa (NPPOZA) </b><br><br><b>Department of Agriculture, <br>Forestry and Fisheries </b><br><br><b>Plant Health Import <br>Permit Office </b><br><br>P.O Box 40024, Arcadia, 0007<br>",
+          "text2": "<strong>Contacts</strong><br><b>\nEmail: </b>PlantHealthPermits@daff.gov.za<br><b>\nPhone: </b>+27 12 319 6130<br><b>\nFax: </b>+27 12 329 8292<br><br><b>Physical Address: </b>542 or 543 Harvest House, 30 Hamilton Street, Arcadia, Pretoria<br> ",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"http://www.daff.gov.za/daffweb3/\" target=\"_blank\" class=\"text-warning\">Department of Agriculture, Forestry and Fisheries</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://www.nda.agric.za/doaDev/sideMenu/plantHealth/docs/Import%20Procedure%20Book%20Mark%2017%20Oct%202014.pdf\" target=\"_blank\" class=\"text-warning\">Import Procedure</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"mailto:PlantHealthPermits@daff.gov.za\" target=\"_blank\" class=\"text-warning\">DAFF</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 - &nbsp;Department of Agriculture, Forestry and Fisheries, South Africa"
+        }
+      ]
+    }
+  }
+}
